@@ -1,7 +1,5 @@
 Turing Machine Explorer:
 
-Eric Wolfson (2017)
-
 ![Alt text](/screenshot.jpg?raw=true "Screenshot")
 
 A C++ program made with the PDCurses library that simulates single tape turing machines.
